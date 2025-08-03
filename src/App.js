@@ -1,4 +1,3 @@
-src/App.js
 import React, { useState, useEffect } from 'react';
 import { CheckCircle, Target, TrendingUp, Users, DollarSign, Clock, Lightbulb, Star, ArrowRight, RefreshCw } from 'lucide-react';
 
